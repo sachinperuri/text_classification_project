@@ -11,7 +11,7 @@ Goal of the project was to correctly classify given news headlines as either "No
 
 __A summary of the findings are:__
 
-Overall, various ML models were explored using the incredible PyCaret library, with and without using NMF to reduce the dimensionality of the dataset.
+Various ML models were explored using the incredible PyCaret library, with and without using NMF to reduce the dimensionality of the dataset. DL methods including Keras sequential and BERT were tested as well.
 
 - Reducing dimensionality of the dataset using Non-negative matrix factorization or NMF seemed to decrease the precision/F1-score metrics by * *5-6 percentage points** but sped up the model fitting by a lot. 
 
