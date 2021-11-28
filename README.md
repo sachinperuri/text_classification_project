@@ -24,3 +24,9 @@ Overall, various ML models were explored using the incredible PyCaret library, w
 - By using BERT, validation accuracy was recorded to be **0.93 after only 1 epoch**, which again shows the power of BERT over simple neural networks.
 
 - We can also see the potential for overfitting by using a powerful model such as BERT, as the training accuracy seemed to reach **0.977** after just 1 epoch of fine-tuning.
+
+### References:
+
+https://machinelearningmastery.com/pycaret-for-machine-learning/
+
+https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671
